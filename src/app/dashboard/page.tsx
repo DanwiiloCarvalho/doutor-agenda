@@ -1,4 +1,3 @@
-interface DashboardPageProps {}
-export default function DashboardPage(props: DashboardPageProps) {
+export default function DashboardPage() {
   return <div>Dashboard</div>;
 }
